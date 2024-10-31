@@ -1,6 +1,6 @@
  Mi usuario es beticomtz24
 
-Soy Amadeus y estoy estudiando Data Science y Front End
+Soy Betico y estoy estudiando MASTER EN DEVF
 
 Me gusta 
 
