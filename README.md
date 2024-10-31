@@ -1,9 +1,3 @@
-# usuarios-git
+# lista de uuarios de git
 
-
-### Holi alumos
-
-
-git clone https://github.com/ledzerck/usuarios-git.git
-
-Con git clone podemos clonar repositorios en nuestra computadora
+Aldo, mi nombre de usuario en git es: [ledzerck](https://github.com/ledzerck)
