@@ -6,3 +6,7 @@
 - Alberto, mi nombre de usuario en git: [beticomtz24](https://github.com/beticomtz24)
 - Cesar, mi usuario de GitHub es: [CESAR1098OMAR](https://github.com/CESAR1098OMAR)
 - Rodolfo, mi usuario de GitHub es: [Gero121601](https://github.com/Gero121601)
+- Daniel, mi nombre de usuario en GitHub: [Danielsasa](https://github.com/Danielsasa)
+
+
+
