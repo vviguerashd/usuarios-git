@@ -8,5 +8,6 @@
 - Rodolfo, mi usuario de GitHub es: [Gero121601](https://github.com/Gero121601)
 - Daniel, mi nombre de usuario en GitHub: [Danielsasa](https://github.com/Danielsasa)
 
+- leonardo D.mi nombre de usuario en GitHub es: [leonardoDRivera](https://github.com/leonardoDRivera)
 
 
