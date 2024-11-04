@@ -12,5 +12,5 @@
 - Ivan Isea, mi nombre de usuario en GitHub es: [ivan_isea](https://github.com/ivanisea1983)
 
 
-Martin, mi nombre de usuario en git:[MartinTorres1995](https://github.com/MartinTorres1995)
+- Martin, mi nombre de usuario en git:[MartinTorres1995](https://github.com/MartinTorres1995)
 
