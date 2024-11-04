@@ -9,5 +9,6 @@
 - Daniel, mi nombre de usuario en GitHub: [Danielsasa](https://github.com/Danielsasa)
 
 - leonardo D.mi nombre de usuario en GitHub es: [leonardoDRivera](https://github.com/leonardoDRivera)
+- Ivan Isea, mi nombre de usuario en GitHub es: [ivan_isea](https://github.com/ivanisea1983)
 
 
