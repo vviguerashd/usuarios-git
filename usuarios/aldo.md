@@ -1,11 +1,11 @@
 # Mi usuario de git
 
-Soy aldo, soy diseñador y estudio psicología
+Soy vico, soy ingeniero y doy clases de programación
 
 Me gusta:
 
-- Patinar
-- la música
-- Programar
+- Cuidar mis plantas
+- Pasear con mi perrita
+- Ponerme siempre retos
 
-mi usuario de githubs es [ledzerck](https://github.com/ledzerck)
+mi usuario de githubs es [vic-vigueras](https://github.com/vviguerashd)
